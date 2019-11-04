@@ -1,0 +1,32 @@
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Header Creater.csprojAssemblyReference.cache
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\MainWindow.g.cs
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\App.g.cs
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\MainWindow.baml
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Header_Creater.Properties.Resources.resources
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Header Creater.csproj.GenerateResource.cache
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Header Creater.csproj.CoreCompileInputs.cache
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Header Creater.csproj.ResolveComReference.cache
+C:\Users\andera63\source\repos\Header Creater\Header Creater\bin\Debug\Test Prep.exe.config
+C:\Users\andera63\source\repos\Header Creater\Header Creater\bin\Debug\Test Prep.exe
+C:\Users\andera63\source\repos\Header Creater\Header Creater\bin\Debug\Test Prep.pdb
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Test Prep_MarkupCompile.cache
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Test Prep_MarkupCompile.lref
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Test Prep.g.resources
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Test Prep.exe
+C:\Users\andera63\source\repos\Header Creater\Header Creater\obj\Debug\Test Prep.pdb
+C:\Header Creater v1.2\Header Creater\bin\Debug\Test Prep.exe.config
+C:\Header Creater v1.2\Header Creater\bin\Debug\Test Prep.exe
+C:\Header Creater v1.2\Header Creater\bin\Debug\Test Prep.pdb
+C:\Header Creater v1.2\Header Creater\obj\Debug\Header Creater.csprojAssemblyReference.cache
+C:\Header Creater v1.2\Header Creater\obj\Debug\Header Creater.csproj.ResolveComReference.cache
+C:\Header Creater v1.2\Header Creater\obj\Debug\MainWindow.g.cs
+C:\Header Creater v1.2\Header Creater\obj\Debug\App.g.cs
+C:\Header Creater v1.2\Header Creater\obj\Debug\Test Prep_MarkupCompile.cache
+C:\Header Creater v1.2\Header Creater\obj\Debug\Test Prep_MarkupCompile.lref
+C:\Header Creater v1.2\Header Creater\obj\Debug\MainWindow.baml
+C:\Header Creater v1.2\Header Creater\obj\Debug\Test Prep.g.resources
+C:\Header Creater v1.2\Header Creater\obj\Debug\Header_Creater.Properties.Resources.resources
+C:\Header Creater v1.2\Header Creater\obj\Debug\Header Creater.csproj.GenerateResource.cache
+C:\Header Creater v1.2\Header Creater\obj\Debug\Header Creater.csproj.CoreCompileInputs.cache
+C:\Header Creater v1.2\Header Creater\obj\Debug\Test Prep.exe
+C:\Header Creater v1.2\Header Creater\obj\Debug\Test Prep.pdb
